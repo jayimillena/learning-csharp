@@ -1,28 +1,21 @@
 ﻿using System;
-public class Car
+public class Vehicle
 {
-    private string brand = "";
-    private int speed = 0;
-
     public static void Main(string[] args)
     {
+        // Inherits from Vehicle
         Car myCar = new Car();
-        myCar.SetBrand("Toyota");
-        Console.WriteLine($"Your car brand: {myCar.GetBrand()}");
+        myCar.Honk();  // Inherited method
     }
-    public void SetBrand(string carBrand)
-    {
-        brand = carBrand;
-    }
+    public string brand = "Ford";
 
-    public string GetBrand()
+    public void Honk()
     {
-        return brand;
-    }
-
-    public void Accelerate()
-    {
-        speed += 10;
+        Console.WriteLine("Beep Beep!");
     }
 }
 
+public class Car : Vehicle
+{
+    public string model = "Mustang";
+}
