@@ -1,0 +1,15 @@
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.AssemblyInfoInputs.cache
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.AssemblyInfo.cs
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.csproj.CoreCompileInputs.cache
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.sourcelink.json
+C:\learning-c#\Animal\bin\Debug\net8.0\Animal.exe
+C:\learning-c#\Animal\bin\Debug\net8.0\Animal.deps.json
+C:\learning-c#\Animal\bin\Debug\net8.0\Animal.runtimeconfig.json
+C:\learning-c#\Animal\bin\Debug\net8.0\Animal.dll
+C:\learning-c#\Animal\bin\Debug\net8.0\Animal.pdb
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.dll
+C:\learning-c#\Animal\obj\Debug\net8.0\refint\Animal.dll
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.pdb
+C:\learning-c#\Animal\obj\Debug\net8.0\Animal.genruntimeconfig.cache
+C:\learning-c#\Animal\obj\Debug\net8.0\ref\Animal.dll
