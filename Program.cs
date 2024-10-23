@@ -1,7 +1,10 @@
-class Program
+﻿class Program 
 {
-    public void Main(string[] args) 
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello World!");
+        int age = 25;
+        string name = "Alice";
+
+        Console.WriteLine($"Hello {name} to this world, so you are a {age} years old!");
     }
 }
